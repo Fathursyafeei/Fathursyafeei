@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FathurSyafeei</h1>
-<h3 align="center">A Informatics Engineering Student Undergraduate</h3>
+<h3 align="center">A student associate's degree Informatics Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathursyafeei&label=Profile%20views&color=0e75b6&style=flat" alt="fathursyafeei" /> </p>
 
