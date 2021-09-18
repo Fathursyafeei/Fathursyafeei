@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FathurSyafeei</h1>
-[![SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h3>[[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7C3&center=true&vCenter=true&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathursyafeei&label=Profile%20views&color=0e75b6&style=flat" alt="fathursyafeei" /> </p>
