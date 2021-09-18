@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm FathurSyafeei</h1>
-[![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=monospace&color=00F781FF&ize=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm FathurSyafeei</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00F781FF&ize=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathursyafeei&label=Profile%20views&color=0e75b6&style=flat" alt="fathursyafeei" /> </p>
