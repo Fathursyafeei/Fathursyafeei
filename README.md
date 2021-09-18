@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FathurSyafeei</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&center=true&vCenter=true&size=30&lines=A+student+associate's+degree+Informatics+Engineering+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&center=true&vCenter=true&size=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering+🇵🇰)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathursyafeei&label=Profile%20views&color=0e75b6&style=flat" alt="fathursyafeei" /> </p>
