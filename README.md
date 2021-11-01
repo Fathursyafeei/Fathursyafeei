@@ -5,7 +5,7 @@
 - 🔬 I am currently studying informatics engineering at the University of North Sumatra
 - 🎮 I'm currently studying game development
 - 🎯 2021 Goals: Can develop themselves better than the previous year 🔥
-
+- 📪 How to reach me: **mufatraba@gmail.com**
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
