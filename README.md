@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00F781FF&ize=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/?via=fathursyafeei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/?via=fathursyafeei" /></a></p><br><br>
-<br>
+- 🔬 I am currently studying informatics engineering at the University of North Sumatra
+- 🎮 I'm currently studying game development
+- 🎯 2021 Goals: Can develop themselves better than the previous year 🔥
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathursyafeei&show_icons=true&locale=en&layout=compact" alt="fathursyafeei" /></p><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fathursyafeei&show_icons=true&locale=en" alt="fathursyafeei" width="450px"/></p>
+### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathursyafeei&show_icons=true&locale=en&layout=compact" alt="fathursyafeei" /></p>
