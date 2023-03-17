@@ -1,11 +1,11 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm FathurSyafeei</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=2c384a&ize=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=2c384a&ize=30&width=600&lines=A+student+associate's+degree+Informatics+Engineering)](https://git.io/typing-svg)
 
 - 🔬 I'm currently studying informatics engineering at the University of North Sumatra
 - 🎮 I'm interested in game development.
 - 🎯 2021 Goals: Can develop themselves better than the previous year 🔥
-- 📪 How to reach me: **mufatraba@gmail.com**
+- 📪 How to reach me: **mufatraba@gmail.com** -->
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
